@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+		<pattern>HI</pattern>
+		<template>Welcome to CFC Restaurant.<br/>My name is DIA your Digital Assistant.<br/>How may I help you?</template>
+	</category>
+<category>
+    <pattern>😁</pattern>
+    <template>Edit bot response</template>
+</category>
+</aiml>
